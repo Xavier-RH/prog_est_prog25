@@ -11,6 +11,7 @@ Presenta el uso de:
     <li>scanf para ingresar datos</li>
     <li>Operaciones matemáticas</li>
     <li>#include para añadir librerias</li>
+    <li>Condicional if</li>
     <li>Ciclo do while</li>
   </ul>
 </p>
